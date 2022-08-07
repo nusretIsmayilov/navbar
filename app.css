@@ -34,6 +34,7 @@ width: 100%;
 justify-content: center;
 align-items: center;
 padding: 15px;
+text-transform: lowercase;
 }
 .activ, .menu-bar ul li:hover{
 background: #d4c995;
